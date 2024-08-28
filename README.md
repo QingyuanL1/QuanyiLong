@@ -11,6 +11,8 @@ Hello! I'm Qingyuan, a passionate full-stack software developer with a keen inte
 
 I'm currently working on projects related to quantitative trading, website development, and app development. These projects allow me to dive deeper into my areas of interest, and I'm excited to share my progress here.
 
+### 📫 How to Reach Me:
+- **Email:** qingyuan.it@gmail.com
 ---
 
 Thanks for stopping by! 😊
