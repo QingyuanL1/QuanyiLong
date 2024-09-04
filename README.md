@@ -1,18 +1,12 @@
-Hello! I'm Quanyi, a passionate full-stack software developer with a keen interest in AI, data analysis, and web development. My journey in the tech world began with a curiosity for quantitative trading, and since then, I have been continuously learning and building projects that solve real-world problems.
+Hi, I'm Quanyi, a full-stack developer with a focus on AI, data analysis, and web development.
 
-### 🎯 My Core Skills:
-
-- **Programming Languages:** Python, JavaScript, Java
-- **Frameworks & Libraries:** Vue, React, Express, Node.js, Spring Boot, Spring Cloud, Flask, Django
-- **Tools & Platforms:** Git, Docker, AWS
+### Skills:
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** Vue, React, Node.js, Spring Boot, Flask, Django
+- **Tools:** Git, Docker, AWS
 - **Databases:** MongoDB, MySQL, DuckDB
 
-### 🌱 What I'm Currently Working On:
+### Current Projects:
+Working on quantitative trading, website, and app development.
 
-I'm currently working on projects related to quantitative trading, website development, and app development. These projects allow me to dive deeper into my areas of interest, and I'm excited to share my progress here.
-
-### 📫 How to Reach Me:
-- **Email:** qingyuan.it@gmail.com
----
-
-Thanks for stopping by! 😊
+📫 Reach me: qingyuan.it@gmail.com
