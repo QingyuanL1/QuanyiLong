@@ -2,7 +2,7 @@ Hi, I'm Quanyi, a full-stack developer with a focus on AI, data analysis, and we
 
 ### Skills:
 - **Languages:** Python, JavaScript, Java
-- **Frameworks:** Vue, React, Node.js, Spring Boot, Flask, Django
+- **Frameworks:** Vue, React, Node.js, Spring Boot, Flask, Django, TailwindCSS
 - **Tools:** Git, Docker, AWS
 - **Databases:** MongoDB, MySQL, DuckDB
 
