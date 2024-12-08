@@ -1,4 +1,4 @@
-Hi, I'm Quanyi, a full-stack developer with a focus on AI, data analysis, and web development.
+A full-stack developer with a focus on AI, data analysis, and web development.
 
 ### Skills:
 - **Languages:** Python, JavaScript, Java, Typescript
